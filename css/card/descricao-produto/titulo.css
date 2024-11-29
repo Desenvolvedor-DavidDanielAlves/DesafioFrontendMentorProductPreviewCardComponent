@@ -1,0 +1,8 @@
+@import '../../variaveis.css';
+
+.descricao-produto .titulo {
+    font-size: 2rem;
+    font-family: 'Fraunces';
+    margin: .5rem 0;
+    color: var(--terciary-color);
+}

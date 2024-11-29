@@ -1,0 +1,16 @@
+@import './css/body.css';
+@import './css/card/card.css';
+@import './css/card/imagem.css';
+@import './css/card/descricao-produto/descricao-produto.css';
+@import './css/card/descricao-produto/nome.css';
+@import './css/card/descricao-produto/time.css';
+@import './css/card/descricao-produto/paragrafo.css';
+@import './css/card/descricao-produto/titulo.css';
+@import './css/card/container/container.css';
+@import './css/card/container/desconto.css';
+@import './css/card/container/desconto.css';
+@import './css/card/descricao-produto/botao-adicionar/botao-adicionar.css';
+@import './css/card/descricao-produto/botao-adicionar/imagem.css';
+@import './css/card/descricao-produto/botao-adicionar/imagem.css';
+@import './css/card/descricao-produto/botao-adicionar/texto.css';
+@import './css/responsivo.css';

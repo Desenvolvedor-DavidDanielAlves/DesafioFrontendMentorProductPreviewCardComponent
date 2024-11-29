@@ -1,0 +1,15 @@
+@import './variaveis.css';
+
+body {
+    background-color: var(--secondary-color);
+    color: var(--quaternary-color);
+    font-size: 14px;
+    font-family: 'Montserrat';
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5%;
+    gap: 5%;
+}

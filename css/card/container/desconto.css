@@ -1,0 +1,8 @@
+@import '../../variaveis.css';
+
+.descricao-produto .container .desconto {
+    color: var(--primary-color);
+    font-weight: 700;
+    font-family: 'Fraunces';
+    font-size: 2rem;
+}

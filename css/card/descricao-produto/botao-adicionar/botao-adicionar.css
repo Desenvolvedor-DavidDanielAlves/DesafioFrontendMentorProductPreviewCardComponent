@@ -1,0 +1,19 @@
+@import '../../../variaveis.css';
+
+.descricao-produto .adicionar {
+    background-color: var(--primary-color);
+    color: var(--quinary-color);
+    width: 100%;
+    padding: 1rem 0;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    cursor: pointer;
+
+    &:hover {
+        background-color: hsl(158, 100%, 14%);
+    }
+}
